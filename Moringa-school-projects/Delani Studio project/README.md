@@ -2,7 +2,7 @@
 
 #### By _**{Becky}**_
 
-#### https://beckychellah.github.io/Akan_Names_Week2/
+#### https://beckychellah.github.io/DelaniStudio-Project/Moringa-school-projects/Delani Studio project/
 
 ## Technologies Used
 
