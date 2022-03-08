@@ -2,7 +2,7 @@
 
 #### By _**{Becky}**_
 
-#### https://beckychellah.github.io/DelaniStudio-Project/Moringa-school-projects/Delani Studio project/
+#### https://beckychellah.github.io/DelaniStudio-Project/Moringa-school-projects/Delani%20Studio%20project/
 
 ## Technologies Used
 
